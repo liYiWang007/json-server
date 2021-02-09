@@ -1,69 +1,77 @@
 {
-    "uers": [
-        {
-            "name": "Henry",
-            "phone": "1235646",
-            "email": "henry@123.mail",
-            "id": 1,
-            "age": "23",
-            "companyId": "1"
-        },
-        {
-            "name": "Sherman",
-            "phone": "1235646",
-            "email": "Sherman@123.mail",
-            "id": 1,
-            "age": "23",
-            "companyId": "2"
-        },
-        {
-            "name": "Jennie",
-            "phone": "1235646",
-            "email": "Jennie@123.mail",
-            "id": 1,
-            "age": "23",
-            "companyId": "3"
-        },
-        {
-            "name": "Bob",
-            "phone": "1235646",
-            "email": "Bob@123.mail",
-            "id": 2,
-            "age": "23",
-            "companyId": "4"
-        },
-        {
-            "name": "Henry",
-            "phone": "1235646",
-            "email": "henry@123.mail",
-            "id": 3,
-            "age": "23",
-            "companyId": "2"
-        },
-        {
-            "name": "Henry",
-            "phone": "1235646",
-            "email": "henry@123.mail",
-            "id": 4,
-            "age": "23",
-            "companyId": "2"
-        }
-    ],
-    "companies":[
-        {
-            "id":1,
-            "name":"nintendo",
-            "description": "nintendo is good"
-        },
-        {
-            "id": 2,
-            "name": "wawa",
-            "description": "wawa is good"
-        },
-        {
-            "id": 3,
-            "name": "surkerpunch",
-            "description": "surkerpunch is good"
-        }
-    ]
+  "uers": [
+    {
+      "name": "Henry",
+      "phone": "1235646",
+      "email": "henry@123.mail",
+      "id": 1,
+      "age": "30",
+      "companyId": "1"
+    },
+    {
+      "name": "Sherman",
+      "phone": "1235646",
+      "email": "Sherman@123.mail",
+      "id": 1,
+      "age": "30",
+      "companyId": "2"
+    },
+    {
+      "name": "Jennie",
+      "phone": "1235646",
+      "email": "Jennie@123.mail",
+      "id": 1,
+      "age": "33",
+      "companyId": "3"
+    },
+    {
+      "name": "Bob",
+      "phone": "1235646",
+      "email": "Bob@123.mail",
+      "id": 2,
+      "age": "30",
+      "companyId": "4"
+    },
+    {
+      "name": "joanana",
+      "phone": "1235646",
+      "email": "joanana@123.mail",
+      "id": 3,
+      "age": "30",
+      "companyId": "3"
+    },
+    {
+      "name": "Henry",
+      "phone": "1235646",
+      "email": "henry@123.mail",
+      "id": 4,
+      "age": "23",
+      "companyId": "2"
+    },
+    {
+      "name": "godson",
+      "phone": "1235646",
+      "email": "godson@123.mail",
+      "id": 5,
+      "age": "30",
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "nintendo",
+      "description": "nintendo is good"
+    },
+    {
+      "id": 2,
+      "name": "wawa",
+      "description": "wawa is good"
+    },
+    {
+      "id": 3,
+      "name": "suckerpunch",
+      "description": "suckerpunch is good"
+    }
+  ]
 }
