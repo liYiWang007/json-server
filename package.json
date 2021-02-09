@@ -4,7 +4,8 @@
   "description": "test restful api",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "json:server": "json-server --watch db.json --port 3111",
+    "json:server:remote": "json-server http://jsonplaceholder.typicode.com/db --port 3111"
   },
   "author": "",
   "license": "ISC",
